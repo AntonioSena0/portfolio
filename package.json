@@ -1,0 +1,24 @@
+{
+  "name": "antonio-sena-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Portfólio de Antonio Sena — Desenvolvedor Back-end Java",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.3.0",
+    "@fontsource-variable/jetbrains-mono": "^5.3.0",
+    "@fontsource/instrument-serif": "^5.3.0",
+    "gsap": "^3.15.0",
+    "lenis": "^1.3.27",
+    "simple-icons": "^16.35.0"
+  },
+  "devDependencies": {
+    "ffmpeg-static": "^5.3.0",
+    "vite": "^8.3.4"
+  }
+}
