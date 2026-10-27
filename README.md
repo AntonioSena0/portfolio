@@ -20,6 +20,17 @@ Site pessoal de Antonio Sena, desenvolvedor back-end Java.
 | [Orbit](https://github.com/AntonioSena0/Orbit) | Java, Spring, TypeScript, Next.js, Docker |
 | [Glint](https://github.com/AntonioSena0/Glint) | Laravel, Blade, JavaScript |
 
+## Designs
+
+A seção **Designs** mostra as oito landing pages que já foram desenvolvidas — HTML, CSS e
+JS puros, sem build — em carrossel horizontal, com uma captura da primeira dobra de cada uma
+(`public/media/landing/`) e o gesto de movimento próprio de cada design. As capturas são geradas
+com o navegador em modo headless e `prefers-reduced-motion`, para o layout sair no estado final.
+
+## Indicações
+
+Os depoimentos ficam em `src/data/recommendations.js`, com nome, data e a mensagem recebida.
+
 ## Como rodar
 
 ```bash
